@@ -115,8 +115,12 @@ See the full research explanation in:
 ```
 Hypoxi_Paper_Report.pdf
 ```
+### Key Findings
+The logistic regression and tree-based models consistently highlighted **PI_MCA**, **PI_UA**, and the **cerebroplacental ratio (PI_MCA/PI_UA)** as the strongest predictors of IUGR. Across models, a higher PI_UA and lower PI_MCA shifted predictions toward the IUGR class, which aligns well with established Doppler physiology.  
+Overall, the models demonstrated that **non-invasive Doppler indices alone carry strong discriminative power**, achieving stable cross-validated performance without requiring engineered features.
 
 ---
 
 ## About  
 This project was developed as part of applied research in Explainable AI for healthcare, focusing on transparent ML pipelines and interpretable decision support tools.
+
