@@ -1,0 +1,13 @@
+# Ignore dataset (contains private medical data)
+Overall_dataset_noninvasive.xlsx
+
+# If you ever put datasets in a folder:
+data/
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
